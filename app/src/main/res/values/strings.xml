@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LiveAction</string>
+    <string name="error">Error</string>
+    <string name="offline">Offline</string>
+    <string name="generic_error">Something went wrong :(</string>
+    <string name="generic_offline">Please check your internet connection.</string>
+    <string name="first_name">First name</string>
+    <string name="register">Register</string>
+</resources>
